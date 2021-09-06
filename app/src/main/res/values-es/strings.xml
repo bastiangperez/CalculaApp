@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CalculaApp</string>
+    <string name="welcome">Bienvenido a CalculaApp</string>
+    <string name="number">Introduce un numeror</string>
+    <string name="add">Sumar</string>
+    <string name="subtract">Restar</string>
+    <string name="multiply">Multiplicar</string>
+    <string name="divide">Dividir</string>
+    <string name="result">Resultado</string>
+</resources>
